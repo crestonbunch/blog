@@ -1,4 +1,4 @@
-baseURL = "https://blog.bunch.im/"
+baseURL = "//blog.bunch.im/"
 languageCode = "en-us"
 title = "Creston's Blog"
 theme = "natrium"

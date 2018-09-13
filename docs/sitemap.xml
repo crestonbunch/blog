@@ -3,51 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.bunch.im/post/music-recommendations/</loc>
+    <loc>//blog.bunch.im/post/music-recommendations/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/about/</loc>
+    <loc>//blog.bunch.im/about/</loc>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/categories/</loc>
+    <loc>//blog.bunch.im/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/</loc>
-    <lastmod>2018-09-12T18:19:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.bunch.im/tags/music/</loc>
+    <loc>//blog.bunch.im/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/post/</loc>
+    <loc>//blog.bunch.im/tags/music/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/categories/quest/</loc>
+    <loc>//blog.bunch.im/post/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/tags/recommendation/</loc>
+    <loc>//blog.bunch.im/categories/quest/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.bunch.im/tags/</loc>
+    <loc>//blog.bunch.im/tags/recommendation/</loc>
+    <lastmod>2018-09-12T18:19:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//blog.bunch.im/tags/</loc>
     <lastmod>2018-09-12T18:19:50-04:00</lastmod>
     <priority>0</priority>
   </url>

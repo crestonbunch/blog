@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Creston&#39;s Blog</title>
-    <link>https://blog.bunch.im/post/</link>
+    <link>//blog.bunch.im/post/</link>
     <description>Recent content in Posts on Creston&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 18:19:50 -0400</lastBuildDate>
     
-	<atom:link href="https://blog.bunch.im/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//blog.bunch.im/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Music Recommendations</title>
-      <link>https://blog.bunch.im/post/music-recommendations/</link>
+      <link>//blog.bunch.im/post/music-recommendations/</link>
       <pubDate>Wed, 12 Sep 2018 18:19:50 -0400</pubDate>
       
-      <guid>https://blog.bunch.im/post/music-recommendations/</guid>
+      <guid>//blog.bunch.im/post/music-recommendations/</guid>
       <description>In this post I want to solve the problem of music recommendation. This is a problem where it is easy to see how collecting user data can be useful.
 For example you might calculate the probability of an individual user enjoying an artist given their listening history and the history of other similar users.
 Since I am not Spotify, Google, or Apple (and I don&amp;rsquo;t want to be), I cannot use data about users to solve this problem.</description>
