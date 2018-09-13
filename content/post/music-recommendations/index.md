@@ -205,7 +205,7 @@ shortest paths.
 I guess gunrock has a memory leak because it can't be _my_ fault. The code I
 wrote should have a constant memory requirement. So I setup
 the script to stop and restart occasionally to clear out memory and let it 
-run overnight. I also spend an obscene amount of time trying to optimize the 
+run overnight. I also spent an obscene amount of time trying to optimize the 
 Python code to save as quickly as possible.
 # Dimensionality reduction
 
@@ -242,7 +242,7 @@ There are two options I experimented with:
    to predict their distance in the all-pairs shortest path matrix.
    ![embedding network](./embeddings.png)
 
-2. Compression whereby I train a neural network to learn the identify function 
+2. Compression whereby I train a neural network to learn the identity function 
    by 'compressing' the vector into a lower-dimensional space and then
    decompressing it back into its original space. Then I run only the 'compress'
    step over every vector and store the results.
