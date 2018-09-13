@@ -1,0 +1,16 @@
+baseURL = "https://blog.bunch.im/"
+languageCode = "en-us"
+title = "Creston's Blog"
+theme = "natrium"
+enableRobotsTXT = true
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+   
+[params]
+    description = "test"
